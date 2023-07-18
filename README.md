@@ -1,4 +1,24 @@
-### Hi there 👋
+# Josiah Adojutelegan
+### Software Engineer
+
+## About Me
+
+- Maths graduate
+- Technical Writing Experience
+- Backend orientated
+- Looking for work :)
+
+## Current Projects
+
+### Stocks app
+
+- A live tracked for stock market calculations
+- Currently in-progress, frontend being developed and connections to database still underway
+
+### Antemortem
+
+- A gambling social interaction game
+- Currently re-designing, a concept that may fair better either 2D or in Unity/C#
 
 <!--
 **jodadoj/jodadoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
