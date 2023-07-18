@@ -16,7 +16,7 @@
 ![java](https://badgen.net/static/Java/intermediate/purple/)
 ![rust](https://badgen.net/static/Rust/beginner/green/)
 ![c-sharp](https://badgen.net/static/C-sharp/beginner/green/)
-![c-plus-plus](https://badgen.net/static/C++/beginner/gren/)
+![c-plus-plus](https://badgen.net/static/C++/beginner/green/)
 
 ## Current Projects
 
