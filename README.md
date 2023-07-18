@@ -4,9 +4,19 @@
 ## About Me
 
 - Maths graduate
-- Technical Writing Experience
-- Backend orientated
-- Looking for work :)
+- Technical Writing Experience at McKinsey AI subsidary
+- Backend orientated (flexible)
+- Open for work
+
+## Technologies
+
+![typescript](https://badgen.net/static/typescript/intermediate/purple/?icon=typescript)
+![react](https://badgen.net/static/React/intermediate/purple/)
+![python](https://badgen.net/static/python/intermediate/purple/)
+![java](https://badgen.net/static/Java/intermediate/purple/)
+![rust](https://badgen.net/static/Rust/beginner/green/)
+![c-sharp](https://badgen.net/static/C#/beginner/green/)
+![c-plus-plus](https://badgen.net/static/C++/beginner/gren/)
 
 ## Current Projects
 
