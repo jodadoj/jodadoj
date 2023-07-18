@@ -12,7 +12,7 @@
 
 ### Stocks app
 
-- A live tracked for stock market calculations
+- A live tracker for stock market calculations
 - Currently in-progress, frontend being developed and connections to database still underway
 
 ### Antemortem
