@@ -9,6 +9,7 @@
 ![java](https://badgen.net/static/Java/intermediate/purple/)
 ![sql](https://badgen.net/static/postgresql/intermediate/purple/?icon=postgresql)
 ![rust](https://badgen.net/static/Rust/beginner/green/)
+![ruby](https://badgen.net/static/Ruby/beginner/green/)
 ![c-sharp](https://badgen.net/static/C-sharp/beginner/green/)
 ![c-plus-plus](https://badgen.net/static/C++/beginner/green/)
 
