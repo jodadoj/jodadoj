@@ -1,13 +1,6 @@
 # Josiah Adojutelegan
 ### Software Engineer
 
-## About Me
-
-- Maths graduate
-- Technical Writing Experience at McKinsey AI subsidary
-- Backend orientated (flexible)
-- Open for work
-
 ## Technologies
 
 ![typescript](https://badgen.net/static/typescript/intermediate/purple/?icon=typescript)
