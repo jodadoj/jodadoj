@@ -3,27 +3,15 @@
 
 ## Technologies
 
+![ruby](https://badgen.net/static/Ruby/intermediate/purple/)
 ![typescript](https://badgen.net/static/typescript/intermediate/purple/?icon=typescript)
 ![react](https://badgen.net/static/React/intermediate/purple/)
 ![python](https://badgen.net/static/python/intermediate/purple/)
 ![java](https://badgen.net/static/Java/intermediate/purple/)
 ![sql](https://badgen.net/static/postgresql/intermediate/purple/?icon=postgresql)
 ![rust](https://badgen.net/static/Rust/beginner/green/)
-![ruby](https://badgen.net/static/Ruby/beginner/green/)
 ![c-sharp](https://badgen.net/static/C-sharp/beginner/green/)
 ![c-plus-plus](https://badgen.net/static/C++/beginner/green/)
-
-## Current Projects
-
-### Stocks app
-
-- A live tracker for stock market calculations
-- Currently in-progress, frontend being developed and connections to database still underway
-
-### Antemortem
-
-- A gambling social interaction game
-- Currently re-designing, a concept that may fair better either 2D or in Unity/C#
 
 <!--
 **jodadoj/jodadoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
